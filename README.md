@@ -25,4 +25,4 @@ Modding can change you sonic mania plus script or sometimes. Without add/make yo
 
 
        3. CopyRight
-Copyright use for copy owner game into your game (as licenced). This rsdk have a lincenced of CC (Copyright) with Sega. This licenced useful for your game.
+Copyright use for copy owner game into your game (as licensed). This rsdk have a lincensed of CC (Copyright) with Sega. This licensed useful for your game.
