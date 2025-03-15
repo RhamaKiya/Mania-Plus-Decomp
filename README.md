@@ -7,4 +7,4 @@ This Repository sharing Sonic Mania Decomplations Game File with 100% Save data 
 
 Before it, the game was legal to download on this Repository. So download now and try it.
 
-Note : This Repository have Licence
+Note : This Repository have License Alpache-2.0
